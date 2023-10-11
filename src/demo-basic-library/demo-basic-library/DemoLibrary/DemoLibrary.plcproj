@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <FileVersion>1.0.0.0</FileVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{e24327d7-b406-44f0-ade9-c492820dad23}</ProjectGuid>
+    <SubObjectsSortedByName>True</SubObjectsSortedByName>
+    <DownloadApplicationInfo>true</DownloadApplicationInfo>
+    <WriteProductVersion>true</WriteProductVersion>
+    <GenerateTpy>false</GenerateTpy>
+    <Name>DemoLibrary</Name>
+    <ProgramVersion>3.1.4024.0</ProgramVersion>
+    <Application>{784b01c2-4bc6-471e-b50e-6658a08dfc68}</Application>
+    <TypeSystem>{2222d3b0-3898-4613-a493-b2240493c6ce}</TypeSystem>
+    <Implicit_Task_Info>{75f80e49-8e43-4593-ba8f-3844b11c48b3}</Implicit_Task_Info>
+    <Implicit_KindOfTask>{6caa0ac0-2082-4c10-80aa-1b215bbb9aa6}</Implicit_KindOfTask>
+    <Implicit_Jitter_Distribution>{0c0c285a-470c-4995-b4d1-b36ab11e28b1}</Implicit_Jitter_Distribution>
+    <LibraryReferences>{c79b2fdc-6e6f-4345-b578-d3a58a89ef5f}</LibraryReferences>
+    <Company>GithubExamples</Company>
+    <Released>false</Released>
+    <Title>DemoBasicLibrary</Title>
+    <ProjectVersion>1.0.0</ProjectVersion>
+    <CombineIds>true</CombineIds>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="MyFunctionBlock.TcPOU">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ProjectExtensions>
+    <PlcProjectOptions>
+      <XmlArchive>
+        <Data>
+          <o xml:space="preserve" t="OptionKey">
+      <v n="Name">"&lt;ProjectRoot&gt;"</v>
+      <d n="SubKeys" t="Hashtable" />
+      <d n="Values" t="Hashtable" />
+    </o>
+        </Data>
+        <TypeList>
+          <Type n="Hashtable">System.Collections.Hashtable</Type>
+          <Type n="OptionKey">{54dd0eac-a6d8-46f2-8c27-2f43c7e49861}</Type>
+          <Type n="String">System.String</Type>
+        </TypeList>
+      </XmlArchive>
+    </PlcProjectOptions>
+  </ProjectExtensions>
+</Project>

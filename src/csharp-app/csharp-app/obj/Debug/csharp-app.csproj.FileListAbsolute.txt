@@ -1,0 +1,8 @@
+C:\Users\BenH\Desktop\automation-interface-add-library\src\csharp-app\csharp-app\bin\Debug\csharp-app.exe.config
+C:\Users\BenH\Desktop\automation-interface-add-library\src\csharp-app\csharp-app\bin\Debug\csharp-app.exe
+C:\Users\BenH\Desktop\automation-interface-add-library\src\csharp-app\csharp-app\bin\Debug\csharp-app.pdb
+C:\Users\BenH\Desktop\automation-interface-add-library\src\csharp-app\csharp-app\obj\Debug\csharp-app.csproj.AssemblyReference.cache
+C:\Users\BenH\Desktop\automation-interface-add-library\src\csharp-app\csharp-app\obj\Debug\csharp-app.csproj.ResolveComReference.cache
+C:\Users\BenH\Desktop\automation-interface-add-library\src\csharp-app\csharp-app\obj\Debug\csharp-app.csproj.CoreCompileInputs.cache
+C:\Users\BenH\Desktop\automation-interface-add-library\src\csharp-app\csharp-app\obj\Debug\csharp-app.exe
+C:\Users\BenH\Desktop\automation-interface-add-library\src\csharp-app\csharp-app\obj\Debug\csharp-app.pdb
